@@ -1,0 +1,6 @@
+{
+  "name": "Deriv Gold Bot",
+  "description": "Cross-platform mobile trading bot and live market order execution engine for XAUUSD (Gold) via Deriv Broker WebSocket API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
